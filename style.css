@@ -98,8 +98,8 @@ form .col-20 label{
 /*  Time table Styles */
 .time-table{
     margin-top: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
     border: 1px solid #000;
     border-spacing: 0;
 }
